@@ -1,19 +1,19 @@
 <template>
-    <title>Home</title>
-    <a href="/About">About</a>
+    <!-- <a href="/About">About</a> -->
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <!-- <ApiPage msg="Home"/>
-    <ApiPage int_post="1"/>
-    <ApiPage isActive="true"/> -->
-</template>
+    <Home msg="Home"/>
+    <Home int_post="1"/>
+    <!-- <ApiPage isActive="true"/> -->
+</template> 
 <script>
-    // import ApiPage from './components/ApiHome.vue'
-    // console.log("api restart 2023 vue design");
+    import Home from './views/Home.vue'
+    console.log("api restart 2023 vue design");
+    //alert("Vue 2024");
 
-    export default {
-        name: 'App'
-        // components: {
-        //     ApiPage
-        // }
+    export default { 
+        name: 'App',
+        components: {
+            Home
+        }
     }
 </script>

@@ -1,5 +1,5 @@
 <template >
-    <div class="hello center"> 
+    <div class="center"> 
       <h1>{{ msg }}</h1>
       <p>{{ int_post }}</p> 
       <!-- <p>{{ isActive }}</p> -->

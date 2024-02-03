@@ -1,10 +1,9 @@
-<template>
-    <title>About</title>
-    <a href="/">Home</a>
+<!-- <template> -->
+    <!-- <a href="/">Home</a> -->
     <!-- <ApiAbout msg="About Us"/>
     <ApiAbout int_post="2"/>
     <ApiAbout isActive="true"/> -->
-</template>
+<!-- </template> --> 
 <script>
     // import ApiAbout from './components/ApiAbout.vue'
     // console.log("api restart 2023 vue design for About");
