@@ -4,6 +4,10 @@
 ## Project setup
 ```
 npm install
+```
+
+## use npm Tools
+```
 npm install vue-router
 ```
 
