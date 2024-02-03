@@ -1,5 +1,5 @@
-<template>
-    <div class="hello"> 
+<template >
+    <div class="hello center"> 
       <h1>{{ msg }}</h1>
       <p>{{ int_post }}</p> 
       <!-- <p>{{ isActive }}</p> -->
@@ -21,3 +21,10 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+/* Add your styles here */
+.center {
+  text-align: center;
+}
+</style>

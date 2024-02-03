@@ -1,6 +1,6 @@
 <template>
-    <ApiAbout msg="API init About"/>
-    <ApiAbout int_post="v1"/>
+    <ApiAbout msg="About Us"/>
+    <ApiAbout int_post="2"/>
     <ApiAbout isActive="true"/>
 </template>
 <script>

@@ -11,6 +11,11 @@ const router = createRouter({
     ]
 });
 
-const app = createApp(Home); // 传递 App.vue
+// 传递 App.vue
+const app = createApp(Home);
+const app2 = createApp(About);
 app.use(router);
 app.mount('#App');
+
+app2.use(router);
+app2.mount('#App2');

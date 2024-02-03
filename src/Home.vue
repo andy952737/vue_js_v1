@@ -1,11 +1,12 @@
 <template>
-    <img alt="Vue logo" src="./assets/logo.png">
-    <ApiPage msg="API init 2024"/>
-    <ApiPage int_post="v1"/>
+    <title>Home</title>
+    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+    <ApiPage msg="Home"/>
+    <ApiPage int_post="1"/>
     <ApiPage isActive="true"/>
 </template>
 <script>
-    import ApiPage from './components/ApiPage.vue'
+    import ApiPage from './components/ApiHome.vue'
     console.log("api restart 2023 vue design");
 
     export default {
