@@ -1,7 +1,7 @@
 <template>
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <ApiPage msg="API init"/>
-    <ApiPage int_post="99"/>
+    <img alt="Vue logo" src="./assets/logo.png">
+    <ApiPage msg="API init 2024"/>
+    <ApiPage int_post="v1"/>
     <ApiPage isActive="true"/>
 </template>
 <script>

@@ -4,6 +4,7 @@
 ## Project setup
 ```
 npm install
+npm install vue-router
 ```
 
 ### Compiles and hot-reloads for development

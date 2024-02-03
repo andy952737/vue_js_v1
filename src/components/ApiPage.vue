@@ -1,5 +1,4 @@
 <template>
-    <div class="test_title">Test Title Vue</div>
     <div class="hello"> 
       <h1>{{ msg }}</h1>
       <p>{{ int_post }}</p> 
