@@ -4,7 +4,7 @@
       <p>{{ int_post }}</p> 
       <!-- <p>{{ isActive }}</p> -->
     </div>
-</template>
+</template> 
 
 <script>
 export default {
