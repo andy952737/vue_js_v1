@@ -1,4 +1,4 @@
-# vue_js_v1
+# vue_js_v1.1.1
 > 10.2.4 
 
 ## Project setup
